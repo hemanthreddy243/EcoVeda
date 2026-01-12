@@ -49,9 +49,3 @@ EcoVeda is a comprehensive sustainability platform that empowers individuals and
 - Node.js (Latest LTS version recommended)
 - npm or yarn or bun
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Maruthi0302/EcoVeda.git
-cd EcoVeda
